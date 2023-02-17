@@ -1,7 +1,5 @@
-[![N|Solid](https://www.filipeflop.com/wp-content/uploads/2017/07/filipeflop-205x63.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://www.makerhero.com/wp-content/uploads/2023/02/makerhero-logo.svg)](https://nodesource.com/products/nsolid)
 
 # RaspberryPi.DotNetCore.API
 
-![RaspberryPi.DotNetCore.API](http://libertyshoewarehouse.com/mt-content/uploads/2016/12/comingsoon.png)
-
-### Em breve tutorial no <span style="color:blue"></span>[Blog da FILIPEFLOP](https://www.filipeflop.com/blog/)!.
+### Em breve tutorial no <span style="color:blue"></span>[Blog da MakerHero](https://www.makerhero.com/blog/programacao-raspberry-pi-com-net-core/)!.
